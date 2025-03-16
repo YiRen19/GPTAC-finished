@@ -1,0 +1,37 @@
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort low
+Design : mul8s_area_517_mse_15131
+Version: S-2021.06-SP5
+Date   : Sat Mar  8 00:02:47 2025
+****************************************
+
+
+Library(s) Used:
+
+    scc55nll_hd_rvt_tt_v1p2_25c_basic (File: /mnt/a92fd0ca-c9fa-4841-8576-6cee0baa61bd/EDA_tools/library/SMIC55/SCC55NLL_HD_RVT_V2p1a/liberty/1.2v/scc55nll_hd_rvt_tt_v1p2_25c_basic.db)
+
+
+Operating Conditions: tt_v1p2_25c   Library: scc55nll_hd_rvt_tt_v1p2_25c_basic
+Wire Load Model Mode: top
+
+
+Global Operating Voltage = 1.2  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1uW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+mul8s_area_517_mse_15131               3.22e-03 2.85e-03 1.15e-02 6.09e-03 100.0
+1
