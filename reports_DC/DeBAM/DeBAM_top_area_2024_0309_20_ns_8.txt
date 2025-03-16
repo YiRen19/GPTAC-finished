@@ -1,0 +1,45 @@
+ 
+****************************************
+Report : area
+Design : DeBAM_top
+Version: S-2021.06-SP5
+Date   : Sun Mar  9 12:48:16 2025
+****************************************
+
+Library(s) Used:
+
+    scc55nll_hd_rvt_tt_v1p2_25c_basic (File: /mnt/a92fd0ca-c9fa-4841-8576-6cee0baa61bd/EDA_tools/library/SMIC55/SCC55NLL_HD_RVT_V2p1a/liberty/1.2v/scc55nll_hd_rvt_tt_v1p2_25c_basic.db)
+
+Number of ports:                           33
+Number of nets:                           247
+Number of cells:                          231
+Number of combinational cells:            231
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                         34
+Number of references:                      25
+
+Combinational area:                368.759999
+Buf/Inv area:                       28.839999
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                   368.759999
+Total area:                 undefined
+
+The above information was reported from the logical library. The following are from the physical library:
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  --------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-    Noncombi-  Black-
+                                  Total      Total    national  national   boxes   Design
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+DeBAM_top                          368.7600    100.0  368.7600     0.0000  0.0000  DeBAM_top
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+Total                                                 368.7600     0.0000  0.0000
+
+1
