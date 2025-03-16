@@ -1,0 +1,454 @@
+ 
+****************************************
+Report : cell
+Design : mul8s_area_465_mse_28517
+Version: S-2021.06-SP5
+Date   : Fri Mar  7 23:35:02 2025
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U366                      AOI31HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U367                      OAI211HDV2      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U368                      PULLHD1         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U369                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U370                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U371                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U372                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U373                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U374                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U375                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U376                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U377                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U378                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U379                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U380                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U381                      NAND3HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U382                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U383                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U384                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U385                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U386                      AOI22BBHDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U387                      NOR2BHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U388                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U389                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U390                      AOI31HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U391                      AOI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U392                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U393                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U394                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U395                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U396                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U397                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U398                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U399                      NAND3HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U400                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U401                      NAND3HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U402                      OAI22BBHDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U403                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U404                      OR2HDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U405                      OAI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U406                      OAI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U407                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U408                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U409                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U410                      OAI31HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U411                      NAND3HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U412                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U413                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U414                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U415                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U416                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U417                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U418                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U419                      OA1B2HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U420                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U421                      OAI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U422                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U423                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U424                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U425                      AO31HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U426                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U427                      AOI22HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U428                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U429                      AOI211HDV2      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U430                      AOI211HDV2      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U431                      NOR2BHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U432                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U433                      NOR3HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U434                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U435                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U436                      AOI211HDV0      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U437                      OAI211HDV0      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U438                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U439                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U440                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U441                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U442                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U443                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U444                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U445                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U446                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U447                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U448                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U449                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U450                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U451                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U452                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U453                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U454                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U455                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U456                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U457                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U458                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U459                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U460                      CLKAND2HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U461                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U462                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U463                      AOI22BBHDV1     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U464                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U465                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U466                      NAND3HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U467                      NAND3HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U468                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U469                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U470                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U471                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U472                      OAI21HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U473                      OA31HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.24000  
+U474                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U475                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U476                      AO31HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U477                      AO31HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U478                      OA31HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.24000  
+U479                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U480                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U481                      OAI21HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U482                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U483                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U484                      AOI21HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U485                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U486                      AOI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U487                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U488                      OAI21HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U489                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U490                      AOAI211HDV1     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U491                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U492                      AOAI211HDV1     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U493                      NOR2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U494                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U495                      NOR2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U496                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U497                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U498                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U499                      NOR2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U500                      OA31HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.24000  
+U501                      OAI22BBHDV0     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U502                      NAND3HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U503                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U504                      OAI31HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U505                      AOI22HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U506                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U507                      NOR2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U508                      NOR2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U509                      OAI211HDV1      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U510                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U511                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U512                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U513                      AND2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U514                      AO211HDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           2.52000  
+U515                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U516                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U517                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U518                      CLKNAND2HDV1    scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U519                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U520                      OA1B2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U521                      OR3HDV1         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U522                      AND2HDV1        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U523                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U524                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U525                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U526                      INHDV2          scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U527                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U528                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U529                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U530                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U531                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U532                      PULLHD0         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U533                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U534                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U535                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U536                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U537                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U538                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U539                      OR2HDV1         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U540                      OR2HDV1         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U541                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U542                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U543                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U544                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U545                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U546                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U547                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U548                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U549                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U550                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U551                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U552                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U553                      NOR2BHDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U554                      NOR2BHDV1       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U555                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U556                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U557                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U558                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U559                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U560                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U561                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U562                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U563                      NOR2HDV0        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U564                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U565                      NOR2HDV2        scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U566                      AOAI211HDV2     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U567                      OAI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U568                      AOI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U569                      AOI21HDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U570                      AOI211HDV2      scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.68000  
+U571                      BUFHDV2         scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U572                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U573                      AOI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U574                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U575                      NAND3HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U576                      AOAI211HDV0     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U577                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+U578                      AO1B2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U579                      CLKINHDV2       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           0.84000  
+U580                      AOAI211HDV0     scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.96000  
+U581                      NAND2HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.12000  
+U582                      OAI21HDV0       scc55nll_hd_rvt_tt_v1p2_25c_basic
+                                                           1.40000  
+--------------------------------------------------------------------------------
+Total 217 cells                                           285.60000
+1
